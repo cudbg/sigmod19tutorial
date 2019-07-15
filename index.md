@@ -1,6 +1,6 @@
 ---
 layout: project
-color: "#4ecce4"
+color: "#3da7bb"
 logo: SIGMOD 2019 Tutorial
 ---
 
