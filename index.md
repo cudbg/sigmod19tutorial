@@ -15,8 +15,8 @@ Nowadays, data visualization is especially important, because it is the _de fact
 This tutorial is organized into four parts:
 
 1. **[Introduction](./files/nan.part1.key)** (30 minutes, Nan Tang)
-2. **Efficient data visualization** (1 hour, Eugene Wu)
-3. **[Smart data visualization]()** (1 hour, Guoliang Li)
+2. **Efficient data visualization ([pdf](./files/wu.pdf), [powerpoint](./files/wu.pptx))** (1 hour, Eugene Wu)
+3. **[Smart data visualization](#)** (1 hour, Guoliang Li)
 4. **[Uncertainty, collaborative, and immersive data visualizations](./files/nan.part4.key)** (30 minutes, Nan Tang)
 
 
